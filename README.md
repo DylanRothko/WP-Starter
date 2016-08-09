@@ -5,3 +5,21 @@ My WordPress Starter Theme is not a production ready template.  It is intended f
 
 ##### Installation
 run ```bower install --save && npm install --save-dev```
+
+##### Bower Dependencies
+- normalize-scss
+- bourbon
+- neat
+
+##### NPM Dependencies
+- gulp
+- gulp-concat
+- gulp-include
+- gulp-minify-css
+- gulp-rename
+- gulp-sass
+- gulp-sourcemaps
+- gulp-uglify
+- gulp-util
+- gulp-watch
+- pump
