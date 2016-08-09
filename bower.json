@@ -25,6 +25,7 @@
   "dependencies": {
     "normalize-scss": "^3.0.3",
     "bourbon": "^4.2.7",
-    "neat": "^1.8.0"
+    "neat": "^1.8.0",
+    "jquery": "^3.1.0"
   }
 }
