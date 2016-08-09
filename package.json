@@ -1,0 +1,27 @@
+{
+  "name": "wordpress-starter-theme",
+  "version": "0.0.1",
+  "description": "A barebones starter theme for wordpress theme developers",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanRothko/WordPress-Starter-Theme.git"
+  },
+  "keywords": [
+    "WordPress",
+    "CSS3",
+    "JQUERY",
+    "BOWER",
+    "NPM",
+    "GULP"
+  ],
+  "author": "Dylan Gaines <dylan@dylangaines.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DylanRothko/WordPress-Starter-Theme/issues"
+  },
+  "homepage": "https://github.com/DylanRothko/WordPress-Starter-Theme#readme"
+}

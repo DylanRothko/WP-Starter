@@ -1,0 +1,25 @@
+{
+  "name": "WordPress-Starter-Theme",
+  "homepage": "https://github.com/DylanRothko/WordPress-Starter-Theme",
+  "authors": [
+    "DylanRothko <dylan@dylangaines.com>"
+  ],
+  "description": "A barebones starter theme for wordpress theme developers",
+  "main": "index.php",
+  "keywords": [
+    "WordPress",
+    "CSS3",
+    "JQUERY",
+    "BOWER",
+    "NPM",
+    "GULP"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
