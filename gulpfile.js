@@ -32,10 +32,15 @@ gulp.task('js', function(done) {
     .on('end', done);    
 });
 
-gulp.task('watch_scss', function() {
-  gulp.watch('scss/**/*.scss',['scss']);
+gulp.task('watch_assets', function() {
+  gulp.watch('scss/**/*.scss',['scss']); 
+  gulp.watch('js/**/*.js',['js']); 
 });
-
-gulp.task('watch_js', function() {
-  gulp.watch('js/**/*.js',['js']);
-})
+//
+//gulp.task('watch_scss', function() {
+//  gulp.watch('scss/**/*.scss',['scss']);
+//});
+//
+//gulp.task('watch_js', function() {
+//  gulp.watch('js/**/*.js',['js']);
+//});
