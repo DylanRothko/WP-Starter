@@ -1,0 +1,11 @@
+//
+// Responsive Breakpoints
+//
+
+$break-mobile-sm: new-breakpoint(min-width 420px);
+$break-mobile-lg: new-breakpoint(max-width 420px);
+$break-tablet-sm: new-breakpoint(max-width 420px);
+$break-tablet-lg: new-breakpoint(max-width 420px);
+$break-desk-sm:  new-breakpoint(max-width 420px);
+$break-desk-lg: new-breakpoint(max-width 420px);
+$break-desk-hd: new-breakpoint(min-width 420px);
