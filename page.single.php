@@ -1,13 +1,10 @@
 <?php 
   /* 
   // Template Name: Single Page Parent
-  */
-  
-  // 
   // Lets globalize our post variable so
   // that we can find the menu with the
   // same name
-  //
+  */
   global $post;
   $post_slug = $post->post_name;  
   $menu_name = $post_slug;
