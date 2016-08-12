@@ -68,5 +68,5 @@
   // Add Init Hooks for custom WordPress Callbacks
   //
   add_action('wp_enqueue_scripts', 'enque_assets'); // INIT ASSETS
-  add_action( 'init', 'super_data_menus' ); // INIT MENU'S
+  add_action( 'init', 'init_menus' ); // INIT MENU'S
   add_action('init', 'init_sidebar'); // INIT SIDEBAR
